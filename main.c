@@ -1,5 +1,3 @@
-// 61706589 口井敢太
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
